@@ -1,5 +1,4 @@
 let num = 0;
-const btn = document.getElementById("start");
 
 
 function getComputerChoice() {
